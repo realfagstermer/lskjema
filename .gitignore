@@ -1,0 +1,6 @@
+.doit.db
+*.pyc
+*.log
+*.bz2
+*.gzip
+*.zip
