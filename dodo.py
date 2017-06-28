@@ -31,7 +31,33 @@ def task_fetch():
     }
 
 
+def task_build_skos():
+
+    return {
+        'doc': 'Build SKOS/Turtle',
+        'basename': 'build-skos',
+        'actions': [
+            'mc2skos --include lskjema.scheme.ttl dist/%s.marc21.xml >| dist/%s.ttl' % (config['basename'], config['basename'])
+        ],
+        'file_dep': [
+            'dist/%s.marc21.xml' % config['basename']
+        ],
+        'targets': [
+            'dist/%s.ttl' % config['basename']
+        ]
+    }
+
+
+def task_build_json():
+    return data_ub_tasks.gen_solr_json(config, 'lskjema')
+
+
+def task_fuseki():
+    return data_ub_tasks.fuseki_task_gen(config, ['dist/%(basename)s.ttl'])
+
+
 def task_publish_dumps():
     return data_ub_tasks.publish_dumps_task_gen(config['dumps_dir'], [
         '%s.marc21.xml' % config['basename'],
+        '%s.ttl' % config['basename'],
     ])

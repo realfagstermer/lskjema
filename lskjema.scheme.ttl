@@ -1,0 +1,63 @@
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix lexvo: <http://lexvo.org/id/iso639-3/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix ubo: <http://data.ub.uio.no/onto#> .
+@prefix lskjema: <http://data.ub.uio.no/lskjema/> .
+@prefix tekord: <http://ntnu.no/ub/data/tekord#> .
+@prefix humord: <http://data.ub.uio.no/humord/> .
+@prefix library: <http://data.ub.uio.no/library/> .
+@prefix nkos: <http://w3id.org/nkos#> .
+
+lskjema: a skos:ConceptScheme, void:Dataset, sd:Graph ;
+    rdfs:label "L-skjema"@nb ;
+    dcterms:title "L-skjema"@nb ;
+    dcterms:description "L-skjema is a controlled subject headings vocabulary for Norwegian law terms."@en,
+        "L-skjema er et kontrollert emneordsvokabular for juridiske emneord."@nb ;
+    dcterms:publisher library:k ;
+    dcterms:creator library:k ;
+    nkos:usedBy library:k ;
+    owl:sameAs <http://id.loc.gov/vocabulary/subjectSchemes/noubojur> ;
+    dcterms:language lexvo:nob ;
+    cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
+        <http://w3id.org/nkos/nkostype#subject_heading_scheme> ;
+    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
+    void:dataDump <http://data.ub.uio.no/dumps/lskjema.ttl> ;
+    void:uriSpace "http://data.ub.uio.no/lskjema/" ;
+    void:vocabulary skos: .
+
+library:k a foaf:Organization ;
+    rdfs:label "University of Oslo Library"@en,
+        "Universitetsbiblioteket i Oslo"@nb ;
+    owl:sameAs <http://dbpedia.org/resource/University_Library_of_Oslo>,
+        <http://viaf.org/viaf/155670338/>,
+        <http://www.wikidata.org/entity/Q3354774> .
+
+<http://data.ub.uio.no/sparql> a sd:Service ;
+    sd:url <http://data.ub.uio.no/sparql> ;
+    sd:supportedLanguage sd:SPARQL11Query ;
+    sd:feature sd:UnionDefaultGraph ;
+    sd:defaultDataset <http://data.ub.uio.no/sparql/dataset> .
+
+<http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
+    dcterms:title "data.ub.uio.no" ;
+    dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
+    sd:defaultGraph <http://data.ub.uio.no/sparql/graphs/default> ;
+    sd:namedGraph <http://data.ub.uio.no/sparql/graphs/lskjema> .
+
+<http://data.ub.uio.no/sparql/graphs/default> a sd:Graph .
+
+<http://data.ub.uio.no/sparql/graphs/lskjema> a sd:NamedGraph ;
+    sd:name lskjema: ;
+    sd:graph <http://data.ub.uio.no/lskjema> .
