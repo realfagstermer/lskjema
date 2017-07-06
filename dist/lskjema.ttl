@@ -60657,3 +60657,11 @@ lskjema:c009639 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "insolvens - banker"@nb .
 
+lskjema:c009640 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9640" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L694> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "lovgivning  internasjonalt samarbeid"@nb .
+
