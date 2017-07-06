@@ -17,6 +17,8 @@ config = {
     'dumps_dir': get_var('dumps_dir', '/opt/data.ub/www/default/dumps'),
     'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'basename': 'lskjema',
+    'git_user': 'ubo-bot',
+    'git_email': 'danmichaelo+ubobot@gmail.com',
 }
 
 
