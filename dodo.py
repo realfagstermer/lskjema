@@ -56,6 +56,10 @@ def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'lskjema')
 
 
+def task_git_push():
+    return data_ub_tasks.git_push_task_gen(config)
+
+
 def task_fuseki():
     return data_ub_tasks.fuseki_task_gen(config, ['dist/%(basename)s.ttl'])
 
