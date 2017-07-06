@@ -21,6 +21,15 @@ config = {
     'fuseki': 'http://localhost:3031/ds',
     'git_user': 'ubo-bot',
     'git_email': 'danmichaelo+ubobot@gmail.com',
+    'es_index': 'authority',
+}
+
+DOIT_CONFIG = {
+    'default_tasks': [
+        'git-push',
+        'publish-dumps',
+        'fuseki',
+    ]
 }
 
 
@@ -69,3 +78,7 @@ def task_publish_dumps():
         '%s.marc21.xml' % config['basename'],
         '%s.ttl' % config['basename'],
     ])
+
+
+def task_elasticsearch():
+    return data_ub_tasks.gen_elasticsearch(config, 'lskjema')
