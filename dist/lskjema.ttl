@@ -61372,3 +61372,27 @@ lskjema:c009642 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "digital helserett"@nb .
 
+lskjema:c009643 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9643" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1086.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "etterforskning - datakriminalitet"@nb .
+
+lskjema:c009644 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9644" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1058> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "insolvens - selskaper"@nb .
+
+lskjema:c009645 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9645" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L657> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "grunnlover - kommentarer"@nb .
+
