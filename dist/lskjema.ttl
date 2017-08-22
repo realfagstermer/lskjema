@@ -61396,3 +61396,36 @@ lskjema:c009645 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "grunnlover - kommentarer"@nb .
 
+lskjema:c009646 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9646" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L271> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "foreldelse"@nb .
+
+lskjema:c009647 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9647" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1064> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "straffeprosesslover"@nb .
+
+lskjema:c009648 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9648" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "(enkelte land)"@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L843> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "straffelover"@nb .
+
+lskjema:c009649 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9649" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L131> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "taushetsplikt - privat sektor"@nb .
+
