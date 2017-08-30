@@ -61429,3 +61429,35 @@ lskjema:c009649 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "taushetsplikt - privat sektor"@nb .
 
+lskjema:c009650 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9650" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L649> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "menneskerettigheter - forvaltningen"@nb .
+
+lskjema:c009651 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9651" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L39.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "rettsinformatikk - rettsfilosofi"@nb .
+
+lskjema:c009652 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9652" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L555> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "patenter - informasjonsteknologi"@nb .
+
+lskjema:c009653 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9653" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L725> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "digital forvaltning"@nb .
+
