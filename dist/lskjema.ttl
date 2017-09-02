@@ -61461,3 +61461,11 @@ lskjema:c009653 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "digital forvaltning"@nb .
 
+lskjema:c009654 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9654" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L890> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "vold i nære relasjoner"@nb .
+
