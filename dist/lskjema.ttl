@@ -61469,3 +61469,11 @@ lskjema:c009654 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "vold i nære relasjoner"@nb .
 
+lskjema:c009655 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9655" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L771.6> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "bedriftsskatterett"@nb .
+
