@@ -61485,3 +61485,11 @@ lskjema:c009656 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "menneskerettigheter - internasjonale organisasjoner"@nb .
 
+lskjema:c009657 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9657" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1164> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "menneskerettighetsbrudd"@nb .
+
