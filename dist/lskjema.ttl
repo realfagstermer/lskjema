@@ -61493,3 +61493,19 @@ lskjema:c009657 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "menneskerettighetsbrudd"@nb .
 
+lskjema:c009658 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9658" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1007> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "avtaler - verneting"@nb .
+
+lskjema:c009659 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9659" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "barn - migrasjon"@nb .
+
