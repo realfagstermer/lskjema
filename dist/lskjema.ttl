@@ -61509,3 +61509,11 @@ lskjema:c009659 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "barn - migrasjon"@nb .
 
+lskjema:c009660 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9660" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1185> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "nordisk samarbeid"@nb .
+
