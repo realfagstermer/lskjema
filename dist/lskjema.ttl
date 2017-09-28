@@ -61517,3 +61517,19 @@ lskjema:c009660 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "nordisk samarbeid"@nb .
 
+lskjema:c009661 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9661" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1185> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "nordisk samarbeid"@nb .
+
+lskjema:c009662 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9662" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L808.5> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "konsesjoner  vindkraft"@nb .
+
