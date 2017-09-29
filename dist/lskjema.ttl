@@ -61533,3 +61533,35 @@ lskjema:c009662 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "konsesjoner  vindkraft"@nb .
 
+lskjema:c009663 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9663" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1163> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "majoriteter - rettigheter"@nb .
+
+lskjema:c009664 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9664" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L953> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "ofre - datakriminalitet"@nb .
+
+lskjema:c009665 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9665" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1144> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "folkerett - god tro"@nb .
+
+lskjema:c009666 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9666" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L755> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "bibliotek - forskerstøtte"@nb .
+
