@@ -61565,3 +61565,11 @@ lskjema:c009666 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "bibliotek - forskerstøtte"@nb .
 
+lskjema:c009667 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9667" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L759.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "bærekraftig utvikling - internasjonalt samarbeid"@nb .
+
