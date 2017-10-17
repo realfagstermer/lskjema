@@ -61581,3 +61581,19 @@ lskjema:c009668 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "opprørsgrupper - folkerett"@nb .
 
+lskjema:c009669 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9669" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L851> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "strafferett - rettssosiologi"@nb .
+
+lskjema:c009670 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9670" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L761.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "merverdiavgift - oppgavesamlinger"@nb .
+
