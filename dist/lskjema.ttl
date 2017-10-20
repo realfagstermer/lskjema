@@ -61597,3 +61597,11 @@ lskjema:c009670 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "merverdiavgift - oppgavesamlinger"@nb .
 
+lskjema:c009671 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9671" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L784> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "psykisk helsevern - pasientrett"@nb .
+
