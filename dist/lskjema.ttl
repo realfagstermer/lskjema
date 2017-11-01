@@ -61605,3 +61605,11 @@ lskjema:c009671 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "psykisk helsevern - pasientrett"@nb .
 
+lskjema:c009672 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9672" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L996> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "skjønnsprosesslover - kommentarer"@nb .
+
