@@ -61613,3 +61613,43 @@ lskjema:c009672 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "skjønnsprosesslover - kommentarer"@nb .
 
+lskjema:c009673 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9673" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L830> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "profesjonsskjønn - lærere"@nb .
+
+lskjema:c009674 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9674" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L437> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "aksjer - verdsettelse"@nb .
+
+lskjema:c009675 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9675" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L38.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "rettsøkonomi - metode"@nb .
+
+lskjema:c009676 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9676" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L978> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "domstolsadministrasjon"@nb .
+
+lskjema:c009677 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9677" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L28> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "motstrid"@nb .
+
