@@ -61653,3 +61653,19 @@ lskjema:c009677 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "motstrid"@nb .
 
+lskjema:c009678 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9678" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L30> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "harmonisering - rett"@nb .
+
+lskjema:c009679 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9679" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1234> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "krig - økonomi"@nb .
+
