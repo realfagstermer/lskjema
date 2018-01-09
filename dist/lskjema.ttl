@@ -61669,3 +61669,11 @@ lskjema:c009679 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "krig - økonomi"@nb .
 
+lskjema:c009680 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9680" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L782.5> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonal helserett"@nb .
+
