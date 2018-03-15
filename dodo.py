@@ -34,18 +34,14 @@ DOIT_CONFIG = {
 
 
 def task_fetch():
-    return {
-        'doc': 'Fetch latest MARC21 XML',
-        'actions': [(data_ub_tasks.fetch_remote, [], {
-            'remote': 'http://app.uio.no/ub/ujur/l-skjema/cgi-bin/lskjema.cgi?visalle=xml',
-            'etag_cache': 'src/%(basename)s.xml.etag' % config
-        })],
-        'targets': ['dist/%(basename)s.marc21.xml' % config]
-    }
+    yield data_ub_tasks.fetch_remote_gen(
+        'http://app.uio.no/ub/ujur/l-skjema/cgi-bin/lskjema.cgi?visalle=xml',
+        'dist/%(basename)s.marc21.xml' % config,
+        []
+    )
 
 
 def task_build_skos():
-
     return {
         'doc': 'Build SKOS/Turtle',
         'basename': 'build-skos',
