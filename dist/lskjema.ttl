@@ -61860,6 +61860,38 @@ lskjema:c009706 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "miljørett - metode"@nb .
 
+lskjema:c009707 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9707" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L827> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "vektere"@nb .
+
+lskjema:c009708 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9708" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L600> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "barn - rettigheter - menneskerettigheter"@nb .
+
+lskjema:c009709 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9709" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L392> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "ferielover - kommentarer"@nb .
+
+lskjema:c009710 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9710" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L537.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "opphavsrett"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
