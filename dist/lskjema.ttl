@@ -61892,6 +61892,38 @@ lskjema:c009710 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "opphavsrett"@nb .
 
+lskjema:c009711 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9711" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L855> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonal strafferett - rettsoppgjør"@nb .
+
+lskjema:c009712 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9712" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L426> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "selskaper - menneskerettigheter"@nb .
+
+lskjema:c009713 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9713" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L683> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "parlamenter - menneskerettigheter"@nb .
+
+lskjema:c009714 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9714" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1201> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "FN - fredsbevarende operasjoner"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
