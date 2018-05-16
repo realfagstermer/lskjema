@@ -61924,6 +61924,46 @@ lskjema:c009714 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "FN - fredsbevarende operasjoner"@nb .
 
+lskjema:c009715 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9715" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1163> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "romene - minioritetsrett"@nb .
+
+lskjema:c009716 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9716" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L974> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "advokater - menneskerettigheter"@nb .
+
+lskjema:c009717 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9717" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1198> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fredsbygging"@nb .
+
+lskjema:c009718 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9718" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L26> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "religion - filosofi"@nb .
+
+lskjema:c009719 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9719" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1164> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "borgerlige rettigheter - menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
