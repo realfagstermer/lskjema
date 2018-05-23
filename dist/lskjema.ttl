@@ -61964,6 +61964,78 @@ lskjema:c009719 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "borgerlige rettigheter - menneskerettigheter"@nb .
 
+lskjema:c009720 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9720" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L164.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "personvern - forordninger - kommentarer"@nb .
+
+lskjema:c009721 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9721" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L813> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "politi - rettshåndhever"@nb .
+
+lskjema:c009722 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9722" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L731> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "rettslige beslutningssystemer - forvaltningen"@nb .
+
+lskjema:c009723 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9723" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1209.5> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonal voldgift - menneskerettigheter"@nb .
+
+lskjema:c009724 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9724" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L152.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kvinner - utviklingsland"@nb .
+
+lskjema:c009725 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9725" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1143> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "menneskerettigheter - antologier"@nb .
+
+lskjema:c009726 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9726" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L943> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "terrorisme - årsaker"@nb .
+
+lskjema:c009727 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9727" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1207> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Midtøsten - internasjonale konflikter - menneskerettigheter"@nb .
+
+lskjema:c009728 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9728" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1223> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "seksuelle overgrep - konfliktområder"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
