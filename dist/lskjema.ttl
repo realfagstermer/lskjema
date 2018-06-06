@@ -62036,6 +62036,22 @@ lskjema:c009728 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "seksuelle overgrep - konfliktområder"@nb .
 
+lskjema:c009729 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9729" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1136> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "traktatrett - konvensjoner - kommentarer"@nb .
+
+lskjema:c009730 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9730" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1136> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "traktatrett - konvensjoner - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
