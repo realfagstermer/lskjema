@@ -62052,6 +62052,30 @@ lskjema:c009730 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "traktatrett - konvensjoner - kommentarer"@nb .
 
+lskjema:c009731 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9731" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1203> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "flyktningleirer - flyktninger"@nb .
+
+lskjema:c009732 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9732" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L813> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "politirett - menneskerettigheter"@nb .
+
+lskjema:c009733 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9733" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1205> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonale finansielle institusjoner - menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
