@@ -62076,6 +62076,70 @@ lskjema:c009733 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "internasjonale finansielle institusjoner - menneskerettigheter"@nb .
 
+lskjema:c009734 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9734" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "enslige mindreårige flyktninger"@nb .
+
+lskjema:c009735 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9735" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1400> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "migrasjon - historie"@nb .
+
+lskjema:c009736 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9736" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L759.6> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonal miljørett - menneskerettigheter"@nb .
+
+lskjema:c009737 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9737" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L808.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "energirett - menneskerettigheter"@nb .
+
+lskjema:c009738 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9738" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1164> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "tortur - konvensjoner"@nb .
+
+lskjema:c009739 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9739" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1163> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "minoriteter - språk"@nb .
+
+lskjema:c009740 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9740" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1185> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "bærekraftig utvikling - internasjonalt samarbeid"@nb .
+
+lskjema:c009741 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9741" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L759.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "biologisk mangfold - menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
