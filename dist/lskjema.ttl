@@ -62156,6 +62156,38 @@ lskjema:c009743 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "media - menneskerettigheter"@nb .
 
+lskjema:c009744 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9744" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L28> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonal rett - rettskildelære"@nb .
+
+lskjema:c009745 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9745" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L39.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "blockchain - rettsforhold"@nb .
+
+lskjema:c009746 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9746" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L720> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kommunelover - kommentarer"@nb .
+
+lskjema:c009747 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9747" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L762.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "merverdiavgiftslover - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
