@@ -62188,6 +62188,30 @@ lskjema:c009747 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "merverdiavgiftslover - kommentarer"@nb .
 
+lskjema:c009748 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9748" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L710> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "seksuell orientering - diskriminering"@nb .
+
+lskjema:c009749 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9749" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1103> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fegselsstraff - livstid - menneskerettigheter"@nb .
+
+lskjema:c009750 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9750" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L803.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "standardkontrakter - petroleumsvirksomhet - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
