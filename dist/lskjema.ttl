@@ -62212,6 +62212,14 @@ lskjema:c009750 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "standardkontrakter - petroleumsvirksomhet - kommentarer"@nb .
 
+lskjema:c009751 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9751" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1198> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fredsprosesser"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
