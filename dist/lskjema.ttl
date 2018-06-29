@@ -62220,6 +62220,30 @@ lskjema:c009751 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "fredsprosesser"@nb .
 
+lskjema:c009752 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9752" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L577> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "barnevern - rettskildesamlinger"@nb .
+
+lskjema:c009753 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9753" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L812> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "vegtrafikkrett - lovsamlinger"@nb .
+
+lskjema:c009754 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9754" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L716> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "statsforfatningsrett - menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
