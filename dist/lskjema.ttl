@@ -44191,7 +44191,7 @@ lskjema:c005531 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1608> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "agenter - kunstig intelligens"@nb .
+    skos:prefLabel "aktører - kunstig intelligens"@nb .
 
 lskjema:c005532 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -62260,6 +62260,22 @@ lskjema:c009756 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L761.1> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "skatterett"@nb .
+
+lskjema:c009757 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9757" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L802> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "etterretning - etikk"@nb .
+
+lskjema:c009758 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9758" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1198> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fredsarbeid"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
