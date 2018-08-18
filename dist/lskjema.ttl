@@ -26225,7 +26225,7 @@ lskjema:c003267 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3267" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L153> ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "immigranter - rettsevne"@nb .
 
@@ -62276,6 +62276,14 @@ lskjema:c009758 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1198> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "fredsarbeid"@nb .
+
+lskjema:c009759 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9759" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L808.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "gass - LNG"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
