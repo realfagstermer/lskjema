@@ -62293,6 +62293,30 @@ lskjema:c009760 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "voldgiftsavtaler - tolkning"@nb .
 
+lskjema:c009761 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9761" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1136> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "væpnede konflikter - protokoller -kommentarer"@nb .
+
+lskjema:c009762 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9762" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L782.2> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "helsearbeid- menneskerettigheter"@nb .
+
+lskjema:c009763 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9763" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L778.8> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "sosialarbeid - menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
