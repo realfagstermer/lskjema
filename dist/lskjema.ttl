@@ -62333,6 +62333,46 @@ lskjema:c009765 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "offentlig arbeidsrett"@nb .
 
+lskjema:c009766 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9766" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1148> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "folkerettssubjekter - individer"@nb .
+
+lskjema:c009767 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9767" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L293.49> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "droner - rettsforhold"@nb .
+
+lskjema:c009768 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9768" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L380> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "diskriminering - erstatningsansvar"@nb .
+
+lskjema:c009769 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9769" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1620> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "digital økonomi"@nb .
+
+lskjema:c009770 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9770" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L39.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internett - menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
