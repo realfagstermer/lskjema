@@ -62373,6 +62373,62 @@ lskjema:c009770 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "internett - menneskerettigheter"@nb .
 
+lskjema:c009771 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9771" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L39.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "roboter - etikk"@nb .
+
+lskjema:c009772 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9772" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L153> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kjønnsidentitet"@nb .
+
+lskjema:c009773 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9773" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L724> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "forvaltningsrett - festskrift"@nb .
+
+lskjema:c009774 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9774" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L837> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "olympiske leker"@nb .
+
+lskjema:c009775 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9775" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1210> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "håndhevelse - folkerett "@nb .
+
+lskjema:c009776 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9776" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1511> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "nasjonalisme - statsvitenskap"@nb .
+
+lskjema:c009777 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9777" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L444> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "miljøansvar - selskaper"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
