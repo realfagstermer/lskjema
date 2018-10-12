@@ -62453,6 +62453,30 @@ lskjema:c009780 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "krigsforbrytelser - tortur"@nb .
 
+lskjema:c009781 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9781" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L27> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kjønn - rett"@nb .
+
+lskjema:c009782 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9782" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1215> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "væpnede konflikter - menneskerettigheter"@nb .
+
+lskjema:c009783 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9783" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L164.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "personvern - opphavsrett"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
