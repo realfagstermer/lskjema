@@ -35,7 +35,7 @@ DOIT_CONFIG = {
 
 def task_fetch():
     yield data_ub_tasks.fetch_remote_gen(
-        'http://app.uio.no/ub/ujur/l-skjema/cgi-bin/lskjema.cgi?visalle=xml',
+        'https://app.uio.no/ub/ujur/l-skjema/cgi-bin/lskjema.cgi?visalle=xml',
         'dist/%(basename)s.marc21.xml' % config,
         []
     )
