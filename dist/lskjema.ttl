@@ -1105,7 +1105,6 @@ lskjema:c000133 a skos:Concept ;
     dcterms:identifier "UJUR133" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også avtalerett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kontraktsrett"@nb .
 
@@ -2956,7 +2955,6 @@ lskjema:c000361 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR361" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "oljerett: bruk petroleumsrett"@nb .
 
@@ -3971,7 +3969,6 @@ lskjema:c000486 a skos:Concept ;
     dcterms:identifier "UJUR486" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne inntektsskatt"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "inntektsskatt"@nb .
 
@@ -5620,7 +5617,6 @@ lskjema:c000693 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR693" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "mellomfolkelig: bruk internasjonal"@nb .
 
@@ -5653,7 +5649,6 @@ lskjema:c000697 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR697" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "verdivurdering: bruk verdsettelse"@nb .
 
@@ -5701,7 +5696,6 @@ lskjema:c000703 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR703" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "folkerepresentasjon: bruk demokrati"@nb .
 
@@ -6008,7 +6002,6 @@ lskjema:c000742 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR742" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "romerrett: bruk romersk rett"@nb .
 
@@ -6072,7 +6065,6 @@ lskjema:c000750 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR750" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "lovkommentarer: se de enkelte lover med underemne kommentarer"@nb .
 
@@ -6989,7 +6981,6 @@ lskjema:c000864 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR864" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "gjeldsbrev: se de ulike typer gjeldsbrev"@nb .
 
@@ -7119,7 +7110,6 @@ lskjema:c000880 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR880" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sexisme: bruk kjønnsdiskrimering"@nb .
 
@@ -7168,7 +7158,6 @@ lskjema:c000886 a skos:Concept ;
     dcterms:identifier "UJUR886" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også forurensning"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "miljøskader"@nb .
 
@@ -7703,7 +7692,6 @@ lskjema:c000952 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR952" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forfatningsrett: bruk statsforfatningsrett"@nb .
 
@@ -10287,7 +10275,6 @@ lskjema:c001274 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1274" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "ugift samliv: bruk samboerskap"@nb .
 
@@ -11883,7 +11870,6 @@ lskjema:c001471 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1471" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "eiendomsforbehold: bruk salgspant"@nb .
 
@@ -12231,7 +12217,6 @@ lskjema:c001515 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1515" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "befordringsavtaler - passasjerer: bruk passasjerbefordring - avtaler"@nb .
 
@@ -13010,7 +12995,6 @@ lskjema:c001614 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1614" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "demurrage"@nb .
 
@@ -13992,7 +13976,6 @@ lskjema:c001737 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1737" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "innsatte: bruk fanger"@nb .
 
@@ -14600,9 +14583,9 @@ lskjema:c001814 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1814" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L1127> ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L403> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "fornærmede - erstatning - straffeprosess"@nb .
+    skos:prefLabel "minstelønn"@nb .
 
 lskjema:c001815 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -14826,7 +14809,6 @@ lskjema:c001842 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1842" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettspolitikk: se de enkelte fagområder med underemne rettspolitikk"@nb .
 
@@ -15602,7 +15584,6 @@ lskjema:c001938 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1938" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "ekskommunikasjon: bruk bannlysing"@nb .
 
@@ -16023,7 +16004,6 @@ lskjema:c001992 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1992" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "reorganisering: bruk omorganisering"@nb .
 
@@ -16344,7 +16324,6 @@ lskjema:c002033 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2033" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "juridisk tenkning: bruk rettstenkning"@nb .
 
@@ -16703,7 +16682,6 @@ lskjema:c002078 a skos:Concept ;
     dcterms:identifier "UJUR2078" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også rettsmegling"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "megling"@nb .
 
@@ -17180,7 +17158,6 @@ lskjema:c002137 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2137" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "chips: bruk microchips"@nb .
 
@@ -17309,7 +17286,6 @@ lskjema:c002153 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2153" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "edb-basert: bruk databasert"@nb .
 
@@ -18470,8 +18446,7 @@ lskjema:c002299 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2299" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "(bruk også 256-257)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L278.5> ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L257> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "borettslover - kommentarer"@nb .
 
@@ -18715,7 +18690,6 @@ lskjema:c002329 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2329" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sakførsel: bruk prosedyre"@nb .
 
@@ -19981,7 +19955,6 @@ lskjema:c002486 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2486" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "interlegal rett: bruk internasjonal privatrett"@nb .
 
@@ -20609,7 +20582,6 @@ lskjema:c002569 a skos:Concept ;
     dcterms:identifier "UJUR2569" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også EU"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "EF"@nb .
 
@@ -20617,8 +20589,8 @@ lskjema:c002570 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2570" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "se også EF"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
+    skos:editorialNote "Se også EF"@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L2570> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "EU"@nb .
 
@@ -21166,7 +21138,6 @@ lskjema:c002638 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2638" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sosialforskning: bruk sosiologi"@nb .
 
@@ -22265,7 +22236,6 @@ lskjema:c002774 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2774" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettsinformasjon: bruk juridisk kildesøking"@nb .
 
@@ -23376,7 +23346,6 @@ lskjema:c002913 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2913" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "godseiere"@nb .
 
@@ -24421,7 +24390,6 @@ lskjema:c003044 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3044" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "informasjonsformidling: se elektronisk informasjonsformidling"@nb .
 
@@ -26323,7 +26291,6 @@ lskjema:c003282 a skos:Concept ;
     dcterms:identifier "UJUR3282" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(se også unge lovbrytere og mindreårige)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "ungdom"@nb .
 
@@ -26773,7 +26740,6 @@ lskjema:c003337 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3337" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "erverv: se de enkelte emner med underemne erverv"@nb .
 
@@ -27599,7 +27565,6 @@ lskjema:c003440 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3440" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "skuespill: se scenekunst"@nb .
 
@@ -27770,7 +27735,6 @@ lskjema:c003461 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3461" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "pleiebarn: se fosterbarn"@nb .
 
@@ -28234,7 +28198,6 @@ lskjema:c003519 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3519" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "statsdomstoler: se forfatningsdomstoler"@nb .
 
@@ -28534,7 +28497,6 @@ lskjema:c003556 a skos:Concept ;
     dcterms:identifier "UJUR3556" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også plan- og bygningsrett og entreprise"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "bygningsrett"@nb .
 
@@ -30043,7 +30005,6 @@ lskjema:c003745 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3745" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forbrytere: se lovbrytere"@nb .
 
@@ -30052,7 +30013,6 @@ lskjema:c003746 a skos:Concept ;
     dcterms:identifier "UJUR3746" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også kriminalitet"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forbrytelser"@nb .
 
@@ -31105,7 +31065,6 @@ lskjema:c003876 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3876" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sambandsstater: se forbundsstater"@nb .
 
@@ -31402,7 +31361,6 @@ lskjema:c003914 a skos:Concept ;
     dcterms:identifier "UJUR3914" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også internasjonalt samarbeid på ulike områder"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "samarbeid"@nb .
 
@@ -31459,7 +31417,6 @@ lskjema:c003921 a skos:Concept ;
     dcterms:identifier "UJUR3921" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også folkerettslige tvangsmidler"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "tvangsmidler"@nb .
 
@@ -31629,7 +31586,6 @@ lskjema:c003943 a skos:Concept ;
     dcterms:identifier "UJUR3943" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også gevinstbeskatning"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "inntektsskatt"@nb .
 
@@ -32180,7 +32136,6 @@ lskjema:c004012 a skos:Concept ;
     dcterms:identifier "UJUR4012" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne konvensjoner"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "konvensjoner"@nb .
 
@@ -32196,7 +32151,6 @@ lskjema:c004014 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4014" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kommentarer: se de enkelte lover med underemne kommentarer"@nb .
 
@@ -32222,7 +32176,6 @@ lskjema:c004017 a skos:Concept ;
     dcterms:identifier "UJUR4017" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne skip"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "skip"@nb .
 
@@ -32231,7 +32184,6 @@ lskjema:c004018 a skos:Concept ;
     dcterms:identifier "UJUR4018" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne lovsamlinger"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "lovsamlinger"@nb .
 
@@ -32296,7 +32248,6 @@ lskjema:c004026 a skos:Concept ;
     dcterms:identifier "UJUR4026" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også partrederier 429"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rederier"@nb .
 
@@ -32685,7 +32636,6 @@ lskjema:c004074 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4074" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettshistorie - Hellas: se gresk rettshistorie 58"@nb .
 
@@ -32701,7 +32651,6 @@ lskjema:c004076 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4076" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "interesseområder: se folkerettslige interesseområder"@nb .
 
@@ -32829,7 +32778,6 @@ lskjema:c004092 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4092" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sanksjoner: se de enkelte typer sanksjoner"@nb .
 
@@ -32965,7 +32913,6 @@ lskjema:c004109 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4109" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "avfall: se de også enkelte typer avfall"@nb .
 
@@ -33475,7 +33422,6 @@ lskjema:c004176 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4176" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sesjon: se cesjon"@nb .
 
@@ -33591,7 +33537,6 @@ lskjema:c004192 a skos:Concept ;
     dcterms:identifier "UJUR4192" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også undervisningspersonale"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "lærere"@nb .
 
@@ -33707,7 +33652,6 @@ lskjema:c004207 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4207" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "erstatningslover: bruk skadeserstatningslover"@nb .
 
@@ -33715,7 +33659,6 @@ lskjema:c004209 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4209" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "culpa: bruk uaktsomhet"@nb .
 
@@ -33827,7 +33770,6 @@ lskjema:c004223 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4223" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "innvandrerkvinner: bruk innvandrere - kvinner"@nb .
 
@@ -33835,7 +33777,6 @@ lskjema:c004224 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4224" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "innvandrerungdom: bruk innvandrere - ungdom"@nb .
 
@@ -33843,7 +33784,6 @@ lskjema:c004225 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4225" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "seksuell sjikane: bruk seksuell trakassering"@nb .
 
@@ -33900,7 +33840,6 @@ lskjema:c004232 a skos:Concept ;
     dcterms:identifier "UJUR4232" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte typer forsikring"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forsikring"@nb .
 
@@ -34384,7 +34323,6 @@ lskjema:c004295 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4295" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "shipping: se skipsfart"@nb .
 
@@ -34408,7 +34346,6 @@ lskjema:c004298 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4298" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "globalbegrensning: se begrenset rederansvar"@nb .
 
@@ -34777,7 +34714,6 @@ lskjema:c004344 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4344" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forsikringsnæringen: bruk forsikringsvirksomhet"@nb .
 
@@ -35302,7 +35238,6 @@ lskjema:c004410 a skos:Concept ;
     dcterms:identifier "UJUR4410" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne erstatningsrett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "erstatningsrett"@nb .
 
@@ -35462,7 +35397,6 @@ lskjema:c004430 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4430" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "pliktmessig avhold: bruk avholdsplikt"@nb .
 
@@ -35542,7 +35476,6 @@ lskjema:c004440 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4440" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "skadeerstatning: se erstatning"@nb .
 
@@ -35806,7 +35739,6 @@ lskjema:c004472 a skos:Concept ;
     dcterms:identifier "UJUR4472" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også bygningsrett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "plan- og bygningsrett"@nb .
 
@@ -35934,7 +35866,6 @@ lskjema:c004488 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4488" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "mønsteravtaler: bruk modellavtaler"@nb .
 
@@ -35950,7 +35881,6 @@ lskjema:c004490 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4490" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kameraovervåking: bruk overvåking - kamera"@nb .
 
@@ -35958,7 +35888,6 @@ lskjema:c004491 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4491" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "videoovervåking: bruk overvåking - kamera"@nb .
 
@@ -36033,7 +35962,6 @@ lskjema:c004500 a skos:Concept ;
     dcterms:identifier "UJUR4500" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også barn og ungdom"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "mindreårige"@nb .
 
@@ -36210,7 +36138,6 @@ lskjema:c004522 a skos:Concept ;
     dcterms:identifier "UJUR4522" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også unge lovbrytere"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "barn"@nb .
 
@@ -36367,7 +36294,6 @@ lskjema:c004542 a skos:Concept ;
     dcterms:identifier "UJUR4542" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne erstatningsansvar, objektivt ansvar og skyldansvar"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "erstatningsansvar"@nb .
 
@@ -36376,7 +36302,6 @@ lskjema:c004543 a skos:Concept ;
     dcterms:identifier "UJUR4543" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne rettsøkonomi"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettsøkonomi"@nb .
 
@@ -36394,7 +36319,6 @@ lskjema:c004545 a skos:Concept ;
     dcterms:identifier "UJUR4545" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også kontraktsrett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "avtalerett"@nb .
 
@@ -36429,7 +36353,6 @@ lskjema:c004549 a skos:Concept ;
     dcterms:identifier "UJUR4549" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne straff"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "straff"@nb .
 
@@ -36438,7 +36361,6 @@ lskjema:c004550 a skos:Concept ;
     dcterms:identifier "UJUR4550" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne rettsteori"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettsteori"@nb .
 
@@ -36447,7 +36369,6 @@ lskjema:c004551 a skos:Concept ;
     dcterms:identifier "UJUR4551" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også kommunal-, lokal- og statsforvaltningen"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forvaltningen"@nb .
 
@@ -36456,7 +36377,6 @@ lskjema:c004552 a skos:Concept ;
     dcterms:identifier "UJUR4552" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne opphavsrett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "opphavsrett"@nb .
 
@@ -36465,7 +36385,6 @@ lskjema:c004553 a skos:Concept ;
     dcterms:identifier "UJUR4553" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne forskning"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forskning"@nb .
 
@@ -36474,7 +36393,6 @@ lskjema:c004554 a skos:Concept ;
     dcterms:identifier "UJUR4554" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også bærekraftig utvikling"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "miljøvern"@nb .
 
@@ -36525,7 +36443,6 @@ lskjema:c004561 a skos:Concept ;
     dcterms:identifier "UJUR4561" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også ikke-statlige organisasjoner"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "organisasjoner"@nb .
 
@@ -36534,7 +36451,6 @@ lskjema:c004562 a skos:Concept ;
     dcterms:identifier "UJUR4562" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også motorvogner"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "biler"@nb .
 
@@ -36813,7 +36729,6 @@ lskjema:c004597 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4597" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "whiplash: bruk nakkeslengskader"@nb .
 
@@ -36838,7 +36753,6 @@ lskjema:c004600 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4600" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sentralforvaltningen: bruk statsforvaltningen"@nb .
 
@@ -36960,7 +36874,6 @@ lskjema:c004615 a skos:Concept ;
     dcterms:identifier "UJUR4615" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også IT"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "informasjonsteknologi"@nb .
 
@@ -37032,7 +36945,6 @@ lskjema:c004624 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4624" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "atomkraftverk: bruk kjernekraftverk"@nb .
 
@@ -37116,7 +37028,6 @@ lskjema:c004635 a skos:Concept ;
     dcterms:identifier "UJUR4635" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også fremmedrett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "utlendingslover"@nb .
 
@@ -37133,7 +37044,6 @@ lskjema:c004637 a skos:Concept ;
     dcterms:identifier "UJUR4637" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(publisert samlet): bruk domssamlinger"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "dommer"@nb .
 
@@ -37142,7 +37052,6 @@ lskjema:c004638 a skos:Concept ;
     dcterms:identifier "UJUR4638" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(publisert enkeltvis) (se også rettssaker)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "dommer"@nb .
 
@@ -37150,7 +37059,6 @@ lskjema:c004639 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4639" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sosialetaten: bruk sosialtjenesten"@nb .
 
@@ -37232,7 +37140,6 @@ lskjema:c004649 a skos:Concept ;
     dcterms:identifier "UJUR4649" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte typer avtaler og kontrakter"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "avtaler"@nb .
 
@@ -37265,7 +37172,6 @@ lskjema:c004653 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4653" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "pengeunioner: bruk monetære unioner"@nb .
 
@@ -37405,7 +37311,6 @@ lskjema:c004670 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4670" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "eiendom: se fast eiendom"@nb .
 
@@ -38575,7 +38480,6 @@ lskjema:c004815 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4815" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "stoffmisbrukere: bruk narkotikamisbrukere"@nb .
 
@@ -39814,7 +39718,6 @@ lskjema:c004974 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4974" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "handicappede: bruk funksjonshemmede"@nb .
 
@@ -39823,7 +39726,6 @@ lskjema:c004975 a skos:Concept ;
     dcterms:identifier "UJUR4975" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også data"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "EDB"@nb .
 
@@ -39993,7 +39895,6 @@ lskjema:c004996 a skos:Concept ;
     dcterms:identifier "UJUR4996" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også EDB"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "data"@nb .
 
@@ -40042,7 +39943,6 @@ lskjema:c005002 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5002" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "papirløst ekteskap: bruk samboerskap"@nb .
 
@@ -40050,7 +39950,6 @@ lskjema:c005003 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5003" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "avtalt samliv: bruk samboerskap"@nb .
 
@@ -40414,7 +40313,6 @@ lskjema:c005049 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5049" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "bankhemmeligheter: bruk banker - sekretesse"@nb .
 
@@ -40439,7 +40337,6 @@ lskjema:c005052 a skos:Concept ;
     dcterms:identifier "UJUR5052" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også kraftselskaper"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kraftverk"@nb .
 
@@ -40448,7 +40345,6 @@ lskjema:c005053 a skos:Concept ;
     dcterms:identifier "UJUR5053" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også kraftverk"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kraftselskaper"@nb .
 
@@ -40505,7 +40401,6 @@ lskjema:c005060 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5060" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "undersøkelseskommisjoner: se parlamentariske granskingskommisjoner"@nb .
 
@@ -40610,7 +40505,6 @@ lskjema:c005074 a skos:Concept ;
     dcterms:identifier "UJUR5074" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne prosess"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "prosess"@nb .
 
@@ -40685,7 +40579,6 @@ lskjema:c005083 a skos:Concept ;
     dcterms:identifier "UJUR5083" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også voldsofre"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "fornærmede"@nb .
 
@@ -40694,7 +40587,6 @@ lskjema:c005084 a skos:Concept ;
     dcterms:identifier "UJUR5084" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også fornærmede"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "voldsofre"@nb .
 
@@ -40999,7 +40891,6 @@ lskjema:c005123 a skos:Concept ;
     dcterms:identifier "UJUR5123" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også de enkelte emner med underemne ansvar"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "ansvar"@nb .
 
@@ -41201,7 +41092,6 @@ lskjema:c005148 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5148" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "mannskap - skip: bruk sjøfolk"@nb .
 
@@ -41522,7 +41412,6 @@ lskjema:c005188 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5188" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "eldre - omsorgstjenester: bruk eldreomsorg"@nb .
 
@@ -41571,7 +41460,6 @@ lskjema:c005194 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5194" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "software: bruk programvare"@nb .
 
@@ -42134,7 +42022,6 @@ lskjema:c005265 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5265" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "sea waybills: bruk fraktbrev - sjøtransport"@nb .
 
@@ -42142,7 +42029,6 @@ lskjema:c005266 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5266" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "forhør: se avhør"@nb .
 
@@ -43941,7 +43827,6 @@ lskjema:c005498 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5498" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "åndsrett: bruk immaterialrett"@nb .
 
@@ -45165,7 +45050,6 @@ lskjema:c005658 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5658" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "tvistemål: bruk sivilprosess"@nb .
 
@@ -47172,7 +47056,6 @@ lskjema:c005917 a skos:Concept ;
     dcterms:identifier "UJUR5917" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også barn og ungdom"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "mindreårige"@nb .
 
@@ -47181,7 +47064,6 @@ lskjema:c005918 a skos:Concept ;
     dcterms:identifier "UJUR5918" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "se også mindreårige"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "unge lovbrytere"@nb .
 
@@ -47453,7 +47335,6 @@ lskjema:c005954 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5954" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rasisme: bruk rasediskriminering"@nb .
 
@@ -47485,7 +47366,6 @@ lskjema:c005958 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5958" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "drivhuseffekten: bruk global oppvarming"@nb .
 
@@ -47502,7 +47382,6 @@ lskjema:c005960 a skos:Concept ;
     dcterms:identifier "UJUR5960" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(se også internasjonal rett under de enkelte emner)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "internasjonal rett"@nb .
 
@@ -47735,7 +47614,6 @@ lskjema:c005990 a skos:Concept ;
     dcterms:identifier "UJUR5990" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(se også konsesjoner og tillatelser)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "bevillinger"@nb .
 
@@ -47903,7 +47781,6 @@ lskjema:c006011 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6011" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "vindikasjon: bruk godtroerverv"@nb .
 
@@ -48087,7 +47964,6 @@ lskjema:c006034 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6034" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kapitalmarkeder: bruk finansmarkeder"@nb .
 
@@ -48489,7 +48365,6 @@ lskjema:c006085 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6085" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "skyldnere: bruk debitorer"@nb .
 
@@ -48497,7 +48372,6 @@ lskjema:c006086 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6086" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "fordringshavere: bruk kreditorer"@nb .
 
@@ -49260,7 +49134,6 @@ lskjema:c006183 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6183" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "internasjonale menneskerettigheter bruk: menneskerettigheter"@nb .
 
@@ -49269,7 +49142,6 @@ lskjema:c006184 a skos:Concept ;
     dcterms:identifier "UJUR6184" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(se også statsborgere - grunnrettigheter 709)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "menneskerettigheter"@nb .
 
@@ -49583,7 +49455,6 @@ lskjema:c006226 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6226" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "merchandising bruk: handel"@nb .
 
@@ -49735,7 +49606,6 @@ lskjema:c006246 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6246" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "fritt hav bruk: åpent hav"@nb .
 
@@ -49751,7 +49621,6 @@ lskjema:c006248 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6248" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "alkoholbevillinger bruk: skjenkebevillinger"@nb .
 
@@ -50133,7 +50002,6 @@ lskjema:c006295 a skos:Concept ;
     dcterms:identifier "UJUR6295" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:editorialNote "(se også landkrig, sjøkrig og luftkrig)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "krig"@nb .
 
@@ -62483,7 +62351,7 @@ lskjema:c009785 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1209.6> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Den internasjonale straffedomstol  ICC"@nb .
+    skos:prefLabel "Den internasjonale straffedomstol - ICC"@nb .
 
 lskjema:c009786 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -62492,6 +62360,983 @@ lskjema:c009786 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L657> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "diskrimineringslover - kommentarer"@nb .
+
+lskjema:c009787 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9787" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1075> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "etterforskning - internasjonal straffeprosess"@nb .
+
+lskjema:c009788 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9788" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L760.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "klimaendringer - internasjonal rett"@nb .
+
+lskjema:c009789 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9789" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L710> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "diskrimineringsrett"@nb .
+
+lskjema:c009790 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9790" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1147.2> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Brexit"@nb .
+
+lskjema:c009791 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9791" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1136> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "urbefolkninger - konvensjoner - kommentarer"@nb .
+
+lskjema:c009792 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9792" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L711> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "ytringsfrihet - sosiale medier"@nb .
+
+lskjema:c009793 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9793" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L406> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "statsansatte - arbeidsrett"@nb .
+
+lskjema:c009794 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9794" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L814> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "politiattest"@nb .
+
+lskjema:c009795 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9795" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L777> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "funksjonshemmede - konvensjoner - kommentarer"@nb .
+
+lskjema:c009796 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9796" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L152.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kvinnerett - religion"@nb .
+
+lskjema:c009797 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9797" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1215> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "krig - historie"@nb .
+
+lskjema:c009798 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9798" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1132> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "menneskerettigheter - undervisning"@nb .
+
+lskjema:c009799 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9799" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1287> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "sekularisme"@nb .
+
+lskjema:c009800 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9800" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L880> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "tortur - forebygging"@nb .
+
+lskjema:c009801 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9801" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1146> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "menneskerettigheter - rettshistorie"@nb .
+
+lskjema:c009802 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9802" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1520> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "religion - politikk"@nb .
+
+lskjema:c009803 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9803" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1163> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "diskriminering - minoriteter"@nb .
+
+lskjema:c009804 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9804" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "migrasjon - internasjonal rett"@nb .
+
+lskjema:c009805 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9805" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "migranter - menneskerettigheter "@nb .
+
+lskjema:c009806 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9806" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "flyktninger - menneskerettigheter"@nb .
+
+lskjema:c009807 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9807" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L164.1> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "personopplysningslover - kommentarer"@nb .
+
+lskjema:c009808 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9808" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L37> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "antropologi - migrasjon"@nb .
+
+lskjema:c009813 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9813" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L239.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fiskeoppdrett - forvaltningsrett"@nb .
+
+lskjema:c009814 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9814" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L153> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "transpersoner - rettslig status"@nb .
+
+lskjema:c009815 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9815" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L978> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Høyesterett- rettshistorie "@nb .
+
+lskjema:c009816 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9816" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L601> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "foreldre"@nb .
+
+lskjema:c009817 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9817" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Antarktis"@nb .
+
+lskjema:c009818 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9818" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Arabiske stater"@nb .
+
+lskjema:c009819 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9819" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Arktis"@nb .
+
+lskjema:c009820 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9820" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Armenia"@nb .
+
+lskjema:c009821 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9821" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Baltikum"@nb .
+
+lskjema:c009822 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9822" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Barentsregionen"@nb .
+
+lskjema:c009823 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9823" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Belgia"@nb .
+
+lskjema:c009824 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9824" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Bosnia-Hercegovina"@nb .
+
+lskjema:c009825 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9825" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote """Brukt for: Christiania
+Brukt for: Kristiania"""@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Oslo"@nb .
+
+lskjema:c009826 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9826" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Colombia"@nb .
+
+lskjema:c009827 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9827" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Danmark"@nb .
+
+lskjema:c009828 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9828" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "Se også: EU"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "EF"@nb .
+
+lskjema:c009829 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9829" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote """Brukt for: Europeiske union
+Se også: EF"""@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "EU"@nb .
+
+lskjema:c009830 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9830" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "England (før 1707)"@nb .
+
+lskjema:c009831 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9831" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote """Se også: Sentral-Europa
+Se også: Vest-Europa
+Se også: Øst-Europa"""@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Europa"@nb .
+
+lskjema:c009832 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9832" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Finland"@nb .
+
+lskjema:c009833 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9833" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "Brukt for: Forente nasjoner"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "FN"@nb .
+
+lskjema:c009834 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9834" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Frankrike"@nb .
+
+lskjema:c009835 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9835" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Færøyene"@nb .
+
+lskjema:c009836 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9836" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Irland"@nb .
+
+lskjema:c009837 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9837" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Island"@nb .
+
+lskjema:c009838 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9838" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Italia"@nb .
+
+lskjema:c009839 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9839" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Karibia"@nb .
+
+lskjema:c009840 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9840" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Kirgisistan"@nb .
+
+lskjema:c009841 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9841" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Mauritius"@nb .
+
+lskjema:c009842 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9842" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Midtøsten"@nb .
+
+lskjema:c009843 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9843" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Mongolia"@nb .
+
+lskjema:c009844 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9844" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nederland"@nb .
+
+lskjema:c009845 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9845" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nord-Irland"@nb .
+
+lskjema:c009846 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9846" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Norden"@nb .
+
+lskjema:c009847 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9847" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nordishavet"@nb .
+
+lskjema:c009848 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9848" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nordøstpassasjen"@nb .
+
+lskjema:c009849 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9849" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Norge"@nb .
+
+lskjema:c009850 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9850" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Persiske bukt"@nb .
+
+lskjema:c009851 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9851" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Polarområdene"@nb .
+
+lskjema:c009852 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9852" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Polen"@nb .
+
+lskjema:c009853 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9853" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Romerriket"@nb .
+
+lskjema:c009854 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9854" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Romerske republikk"@nb .
+
+lskjema:c009855 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9855" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Russland"@nb .
+
+lskjema:c009856 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9856" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sen-Romerriket"@nb .
+
+lskjema:c009857 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9857" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1209.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "EU-domstolen"@nb .
+
+lskjema:c009858 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9858" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sentral-Europa"@nb .
+
+lskjema:c009859 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9859" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Skottland"@nb .
+
+lskjema:c009860 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9860" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sosialistiske land"@nb .
+
+lskjema:c009861 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9861" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sovjetunionen"@nb .
+
+lskjema:c009862 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9862" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Spania"@nb .
+
+lskjema:c009863 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9863" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Stillehavsområdet"@nb .
+
+lskjema:c009864 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9864" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Storbritannia (etter 1707)"@nb .
+
+lskjema:c009865 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9865" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "SUS (Samveldet av uavhengige stater)"@nb .
+
+lskjema:c009866 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9866" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sverige"@nb .
+
+lskjema:c009867 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9867" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Skandinavia"@nb .
+
+lskjema:c009868 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9868" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "Brukt for: Tredje rike"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Tyskland 1934-1945"@nb .
+
+lskjema:c009869 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9869" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote """Brukt for: Tredje verden
+Brukt for: U-land"""@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Utviklingsland"@nb .
+
+lskjema:c009870 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9870" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Tysk-romerske rike"@nb .
+
+lskjema:c009871 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9871" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Tyskland"@nb .
+
+lskjema:c009872 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9872" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Tyskland (BRD)"@nb .
+
+lskjema:c009873 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9873" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Tyskland (DDR)"@nb .
+
+lskjema:c009874 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9874" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "Brukt for: Forente stater"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "USA"@nb .
+
+lskjema:c009875 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9875" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Vest-Europa"@nb .
+
+lskjema:c009876 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9876" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Vesten"@nb .
+
+lskjema:c009877 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9877" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Weimarrepublikken"@nb .
+
+lskjema:c009878 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9878" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Østerrike"@nb .
+
+lskjema:c009879 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9879" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Øst-Europa"@nb .
+
+lskjema:c009880 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9880" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Østersjøområdet"@nb .
+
+lskjema:c009881 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9881" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L499> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "skipsfart - sikkerhet"@nb .
+
+lskjema:c009882 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9882" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "1700-tallet"@nb .
+
+lskjema:c009883 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9883" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "1800-tallet"@nb .
+
+lskjema:c009884 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9884" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "1900-tallet"@nb .
+
+lskjema:c009885 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9885" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Andre verdenskrig"@nb .
+
+lskjema:c009886 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9886" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Antikken"@nb .
+
+lskjema:c009887 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9887" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Høymiddelalderen"@nb .
+
+lskjema:c009888 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9888" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Middelalderen"@nb .
+
+lskjema:c009889 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9889" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Mellomkrigstiden"@nb .
+
+lskjema:c009890 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9890" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nyere tid"@nb .
+
+lskjema:c009891 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9891" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Opplysningstiden"@nb .
+
+lskjema:c009892 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9892" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Renessansen"@nb .
+
+lskjema:c009893 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9893" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Romersk keisertid"@nb .
+
+lskjema:c009894 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9894" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Romertiden"@nb .
+
+lskjema:c009895 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9895" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Senmiddelalderen"@nb .
+
+lskjema:c009896 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9896" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Tidlig middelalder"@nb .
+
+lskjema:c009897 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9897" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Victoriatiden"@nb .
+
+lskjema:c009898 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9898" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Latin-Amerika"@nb .
+
+lskjema:c009899 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9899" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nordsjøen"@nb .
+
+lskjema:c009900 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9900" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Jugoslavia"@nb .
+
+lskjema:c009901 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9901" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sør-Sudan"@nb .
+
+lskjema:c009902 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9902" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Nord-Afrika"@nb .
+
+lskjema:c009903 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9903" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Kina"@nb .
+
+lskjema:c009904 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9904" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Schengen"@nb .
+
+lskjema:c009905 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9905" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L306> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "elektronisk handel"@nb .
+
+lskjema:c009906 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9906" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L218> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fast eiendom - mangler - sanksjoner"@nb .
+
+lskjema:c009907 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9907" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L785> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "genetisk kartlegging - helserett"@nb .
+
+lskjema:c009908 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9908" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L693> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "riksrett - domstoler - rettshistorie"@nb .
+
+lskjema:c009909 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9909" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1186> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonale organisasjoner - anskaffelser"@nb .
+
+lskjema:c009910 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9910" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L164.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "overvåkingskapitalisme - persondata"@nb .
+
+lskjema:c009911 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9911" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L813> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "politireformer"@nb .
+
+lskjema:c009912 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9912" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1209.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "EU-domstolen - metode"@nb .
+
+lskjema:c009913 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9913" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L600> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "barn - rettigheter - eiendeler"@nb .
+
+lskjema:c009914 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9914" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L836> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "likestilling - skoler"@nb .
+
+lskjema:c009915 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9915" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L823> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "grensekontroll - mennekerettigheter"@nb .
+
+lskjema:c009916 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9916" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "(LGBTQ)"@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1164> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "LHBT - menneskerettigheter"@nb .
+
+lskjema:c009917 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9917" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L757.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "redningstjenesten"@nb .
+
+lskjema:c009918 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9918" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L164.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "GDPR - personvern"@nb .
+
+lskjema:c009919 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9919" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "(AI)"@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L39.6> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kunstig intelligens - juridisk analyse"@nb .
+
+lskjema:c009920 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9920" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L491> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "handelsrett - rettsinformatikk"@nb .
+
+lskjema:c009921 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9921" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L734> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "enkeltvedtak - automatisering"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
