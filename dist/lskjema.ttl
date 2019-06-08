@@ -56295,19 +56295,11 @@ lskjema:c009027 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "elektronisk post - spam"@nb .
 
-lskjema:c009028 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR9028" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L963> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "prosess - muntlighetsprinsippet"@nb .
-
 lskjema:c009029 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9029" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L963> ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L962> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "muntlighetsprinsippet  - prosess"@nb .
 
