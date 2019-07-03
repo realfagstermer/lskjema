@@ -63419,6 +63419,30 @@ lskjema:c009932 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "datakriminalitet - kriminologi"@nb .
 
+lskjema:c009933 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9933" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1223> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "krigsofre - barn"@nb .
+
+lskjema:c009934 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9934" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L943> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "terrorisme"@nb .
+
+lskjema:c009935 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9935" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1136> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "folkemord - konvensjoner - forarbeider"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
