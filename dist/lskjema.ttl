@@ -63443,6 +63443,46 @@ lskjema:c009935 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "folkemord - konvensjoner - forarbeider"@nb .
 
+lskjema:c009936 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9936" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L767.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "suverenitet - internasjonal skatterett"@nb .
+
+lskjema:c009937 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9937" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L281> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kryptovaluta"@nb .
+
+lskjema:c009938 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9938" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L767.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "energi produksjon - internasjonal skatterett"@nb .
+
+lskjema:c009939 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9939" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L767.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "energi distribusjon - internasjonal skatterett"@nb .
+
+lskjema:c009940 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9940" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L794> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "sivilbeskyttelseslover - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
