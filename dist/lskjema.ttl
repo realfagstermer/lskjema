@@ -63611,6 +63611,22 @@ lskjema:c009956 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "væpnede konflikter - konvensjoner -kommentarer"@nb .
 
+lskjema:c009957 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9957" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L26> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kapitalisme - menneskerettigheter"@nb .
+
+lskjema:c009958 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9958" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L671> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "borgerkrig - sivilbefolkning"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
