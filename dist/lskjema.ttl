@@ -63627,6 +63627,30 @@ lskjema:c009958 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "borgerkrig - sivilbefolkning"@nb .
 
+lskjema:c009959 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9959" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1286.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Islam - reformer"@nb .
+
+lskjema:c009960 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9960" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1164> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Menneskerettigheter - historie"@nb .
+
+lskjema:c009961 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9961" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1223> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "tvungen forsvinning"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
