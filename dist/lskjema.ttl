@@ -63651,6 +63651,22 @@ lskjema:c009961 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "tvungen forsvinning"@nb .
 
+lskjema:c009962 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9962" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L11> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "oppgavesamlinger"@nb .
+
+lskjema:c009963 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9963" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L440> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "insentivordninger - aksjeselskaper"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
