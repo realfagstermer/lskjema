@@ -63683,6 +63683,14 @@ lskjema:c009965 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "arbeidsrett - foreldelse"@nb .
 
+lskjema:c009966 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9966" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L978> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "rettsmøter - rettstegnere"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
