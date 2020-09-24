@@ -63691,6 +63691,38 @@ lskjema:c009966 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettsmøter - rettstegnere"@nb .
 
+lskjema:c009967 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9967" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L173> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kontraktsrett - direktiver - kommentarer"@nb .
+
+lskjema:c009968 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9968" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L953> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kriminologi - miljørett"@nb .
+
+lskjema:c009969 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9969" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L139> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fondslover - kommentarer"@nb .
+
+lskjema:c009970 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9970" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L812> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "vektere - lovsamlinger"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
