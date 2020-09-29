@@ -63723,6 +63723,22 @@ lskjema:c009970 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "vektere - lovsamlinger"@nb .
 
+lskjema:c009971 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9971" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L763.2> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "finansrett - håndheving"@nb .
+
+lskjema:c009972 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9972" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L804> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "forbrukerrett - håndheving"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
