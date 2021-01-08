@@ -63747,6 +63747,22 @@ lskjema:c009973 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "unntakstilstand"@nb .
 
+lskjema:c009974 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9974" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1508> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "entreprenørskap"@nb .
+
+lskjema:c009975 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9975" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L792> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "medisinsk forskning - stordata - kunstig intelligens"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
@@ -63772,3 +63788,11 @@ library:k a foaf:Organization ;
         <http://viaf.org/viaf/155670338/>,
         <http://www.wikidata.org/entity/Q3354774> .
 
+http://www.w3.org/2004/02/skos/core#ConceptScheme
+http://www.w3.org/2004/02/skos/core#Concept
+http://rdfs.org/ns/void#Dataset
+http://www.w3.org/ns/sparql-service-description#Dataset
+http://www.w3.org/ns/sparql-service-description#Graph
+http://www.w3.org/ns/sparql-service-description#NamedGraph
+http://www.w3.org/ns/sparql-service-description#Service
+http://xmlns.com/foaf/0.1/Organization
