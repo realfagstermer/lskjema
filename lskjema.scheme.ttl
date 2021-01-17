@@ -61,3 +61,4 @@ library:k a foaf:Organization ;
 <http://data.ub.uio.no/sparql/graphs/lskjema> a sd:NamedGraph ;
     sd:name lskjema: ;
     sd:graph <http://data.ub.uio.no/lskjema> .
+
