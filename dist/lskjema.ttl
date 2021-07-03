@@ -63764,6 +63764,22 @@ lskjema:c009976 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "autonome skip"@nb .
 
+lskjema:c009977 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9977" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1209.6> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Internasjonale straffedomstoler"@nb .
+
+lskjema:c009978 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9978" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L293.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "elektriske kjøretøy"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
