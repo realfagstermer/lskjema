@@ -63796,6 +63796,30 @@ lskjema:c009980 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "legemiddelindustri - konkurranserett"@nb .
 
+lskjema:c009981 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9981" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L813> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "politi - media"@nb .
+
+lskjema:c009982 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9982" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L732> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "offentlige anskaffelser  sikkerhet"@nb .
+
+lskjema:c009983 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9983" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L584> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "familierett  menneskerettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
