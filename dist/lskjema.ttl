@@ -63836,6 +63836,14 @@ lskjema:c009985 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "aksjeselskaper"@nb .
 
+lskjema:c009986 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9986" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L683> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Stortinget - historie - krig"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
