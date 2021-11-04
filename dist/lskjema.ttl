@@ -56252,9 +56252,10 @@ lskjema:c009023 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9023" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "[bruk også 299]"@nb ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L292.3> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "pakkereiselover - forarbeider [bruk også 299]"@nb .
+    skos:prefLabel "pakkereiselover - forarbeider"@nb .
 
 lskjema:c009024 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -63810,7 +63811,7 @@ lskjema:c009982 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L732> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "offentlige anskaffelser  sikkerhet"@nb .
+    skos:prefLabel "offentlige anskaffelser - sikkerhet"@nb .
 
 lskjema:c009983 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
