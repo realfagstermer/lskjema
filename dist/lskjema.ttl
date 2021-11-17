@@ -63818,7 +63818,7 @@ lskjema:c009983 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L584> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "familierett  menneskerettigheter"@nb .
+    skos:prefLabel "familierett - menneskerettigheter"@nb .
 
 lskjema:c009984 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
