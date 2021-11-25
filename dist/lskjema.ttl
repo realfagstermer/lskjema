@@ -63852,6 +63852,22 @@ lskjema:c009987 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kunstig intelligens - etikk"@nb .
 
+lskjema:c009988 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9988" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L168> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "forretningsjus - oppgavesamlinger"@nb .
+
+lskjema:c009989 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9989" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L168> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "forretningsjus - oppgavesamlinger"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
