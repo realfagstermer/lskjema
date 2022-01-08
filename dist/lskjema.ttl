@@ -63868,6 +63868,22 @@ lskjema:c009990 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "internasjonale klimaavtaler - kommentarer"@nb .
 
+lskjema:c009991 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9991" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L803.3> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "energiforsyningslover - kommentarer"@nb .
+
+lskjema:c009992 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9992" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L969> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "rettferdig rettergang- internasjonal prosessrett"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
