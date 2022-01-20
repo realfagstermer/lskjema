@@ -63884,6 +63884,54 @@ lskjema:c009992 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "rettferdig rettergang- internasjonal prosessrett"@nb .
 
+lskjema:c009993 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9993" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L527> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "immaterialrett - konvensjoner"@nb .
+
+lskjema:c009994 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9994" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L525> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "immaterialrett - lover"@nb .
+
+lskjema:c009995 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9995" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L524> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "immaterialrett - rettsakter"@nb .
+
+lskjema:c009996 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9996" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L805> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "digital markedsføring"@nb .
+
+lskjema:c009997 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9997" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L953> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "grønn kriminologi"@nb .
+
+lskjema:c009998 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9998" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L781> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "apotekloven - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
