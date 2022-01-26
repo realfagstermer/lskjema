@@ -63932,6 +63932,46 @@ lskjema:c009998 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "apotekloven - kommentarer"@nb .
 
+lskjema:c009999 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR9999" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Australia"@nb .
+
+lskjema:c010000 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10000" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "England"@nb .
+
+lskjema:c010001 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10001" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Singapore"@nb .
+
+lskjema:c010002 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10002" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Wales"@nb .
+
+lskjema:c010003 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10003" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "New Zealand"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
