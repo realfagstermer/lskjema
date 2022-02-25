@@ -22049,8 +22049,8 @@ lskjema:c002752 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2752" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "(bruk også 829)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L836> ;
+    skos:editorialNote "(bruk også 836)"@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L829> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "barnehagelover"@nb .
 
@@ -37585,8 +37585,8 @@ lskjema:c004705 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4705" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "(bruk også 829)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L836> ;
+    skos:editorialNote "(bruk også 836)"@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L829> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "barnehagelover - kommentarer"@nb .
 
