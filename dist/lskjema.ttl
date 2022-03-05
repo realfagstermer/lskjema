@@ -52943,7 +52943,7 @@ lskjema:c008604 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L406> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Tjenestemannslover - kommentarer"@nb .
+    skos:prefLabel "tjenestemannslover - kommentarer"@nb .
 
 lskjema:c008605 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64003,6 +64003,22 @@ lskjema:c010007 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L27> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "feminisme - rettsteori"@nb .
+
+lskjema:c010008 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10008" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L392> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "varslere - lover - kommentarer"@nb .
+
+lskjema:c010009 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10009" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L394> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "avtaler - arbeidsrett - kommunesektoren"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
