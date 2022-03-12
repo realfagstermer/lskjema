@@ -63050,91 +63050,91 @@ lskjema:c009885 a skos:Concept ;
     dcterms:identifier "UJUR9885" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Andre verdenskrig"@nb .
+    skos:prefLabel "andre verdenskrig"@nb .
 
 lskjema:c009886 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9886" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Antikken"@nb .
+    skos:prefLabel "antikken"@nb .
 
 lskjema:c009887 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9887" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Høymiddelalderen"@nb .
+    skos:prefLabel "høymiddelalderen"@nb .
 
 lskjema:c009888 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9888" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Middelalderen"@nb .
+    skos:prefLabel "middelalderen"@nb .
 
 lskjema:c009889 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9889" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Mellomkrigstiden"@nb .
+    skos:prefLabel "mellomkrigstiden"@nb .
 
 lskjema:c009890 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9890" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Nyere tid"@nb .
+    skos:prefLabel "nyere tid"@nb .
 
 lskjema:c009891 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9891" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Opplysningstiden"@nb .
+    skos:prefLabel "opplysningstiden"@nb .
 
 lskjema:c009892 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9892" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Renessansen"@nb .
+    skos:prefLabel "renessansen"@nb .
 
 lskjema:c009893 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9893" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Romersk keisertid"@nb .
+    skos:prefLabel "romersk keisertid"@nb .
 
 lskjema:c009894 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9894" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Romertiden"@nb .
+    skos:prefLabel "romertiden"@nb .
 
 lskjema:c009895 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9895" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Senmiddelalderen"@nb .
+    skos:prefLabel "senmiddelalderen"@nb .
 
 lskjema:c009896 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9896" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Tidlig middelalder"@nb .
+    skos:prefLabel "tidlig middelalder"@nb .
 
 lskjema:c009897 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9897" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Victoriatiden"@nb .
+    skos:prefLabel "victoriatiden"@nb .
 
 lskjema:c009898 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64035,6 +64035,22 @@ lskjema:c010011 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L759.3> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "miljørett - filosofi"@nb .
+
+lskjema:c010012 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10012" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Afrika"@nb .
+
+lskjema:c010013 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10013" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10001> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "jernalderen"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
