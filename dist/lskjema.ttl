@@ -25426,15 +25426,6 @@ lskjema:c003176 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "boikott"@nb .
 
-lskjema:c003177 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR3177" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "se også de enkelte emner med underemne arbeidsrett"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L400> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "arbeidsrett"@nb .
-
 lskjema:c003178 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3178" ;
