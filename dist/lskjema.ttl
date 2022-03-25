@@ -58777,14 +58777,6 @@ lskjema:c009341 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "elektrisitetsforsyning - vannkraft"@nb .
 
-lskjema:c009342 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR9342" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L808.2> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "elektrisitetsforsyning - vindkraft"@nb .
-
 lskjema:c009343 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR9343" ;
@@ -64042,6 +64034,30 @@ lskjema:c010013 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L10001> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "jernalderen"@nb .
+
+lskjema:c010014 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10014" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L139> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "fullmaktslover - kommentarer"@nb .
+
+lskjema:c010016 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10016" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Asia"@nb .
+
+lskjema:c010017 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10017" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1310> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "investeringer"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
