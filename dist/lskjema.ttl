@@ -45277,14 +45277,6 @@ lskjema:c005688 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "internett - brukere - rettigheter"@nb .
 
-lskjema:c005689 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR5689" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L1620> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "informasjonssamfunnet - digitalisering"@nb .
-
 lskjema:c005690 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR5690" ;
