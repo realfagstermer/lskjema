@@ -63246,7 +63246,7 @@ lskjema:c009915 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L823> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "grensekontroll - mennekerettigheter"@nb .
+    skos:prefLabel "grensekontroll - menneskerettigheter"@nb .
 
 lskjema:c009916 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64066,6 +64066,38 @@ lskjema:c010019 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "New Zealand"@nb .
+
+lskjema:c010020 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10020" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Palestina"@nb .
+
+lskjema:c010021 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10021" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Israel"@nb .
+
+lskjema:c010022 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10022" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Afghanistan"@nb .
+
+lskjema:c010023 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10023" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Irak"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
