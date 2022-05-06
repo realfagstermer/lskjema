@@ -64107,6 +64107,22 @@ lskjema:c010024 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "digitalt indre marked"@nb .
 
+lskjema:c010025 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10025" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1185> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonale relasjoner - etikk"@nb .
+
+lskjema:c010026 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10026" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L491> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "handelsrett - klimaendringer."@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
