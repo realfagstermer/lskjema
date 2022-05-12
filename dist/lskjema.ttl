@@ -29266,14 +29266,6 @@ lskjema:c003653 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "flyktninger - oppholdstillatelse"@nb .
 
-lskjema:c003654 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR3654" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L708> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "oppholdstillatelse - flyktninger"@nb .
-
 lskjema:c003655 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR3655" ;
