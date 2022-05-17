@@ -64123,6 +64123,22 @@ lskjema:c010027 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "statutter -  internasjonale domstoler - kommentarer"@nb .
 
+lskjema:c010028 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10028" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1147.2> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "EU - delegering"@nb .
+
+lskjema:c010029 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10029" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1144> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "insolvens - forordninger - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
