@@ -64129,7 +64129,7 @@ lskjema:c010028 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1147.2> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "EU - delegering"@nb .
+    skos:prefLabel "delegering - EU"@nb .
 
 lskjema:c010029 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
