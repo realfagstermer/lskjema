@@ -48286,7 +48286,7 @@ lskjema:c006078 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1147.2> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Berettigede forventninger - EU - rett"@nb .
+    skos:prefLabel "berettigede forventninger - EU - rett"@nb .
 
 lskjema:c006079 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -60716,7 +60716,7 @@ lskjema:c009586 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1136> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "konvensjoner kommentarer"@nb .
+    skos:prefLabel "konvensjoner - kommentarer"@nb .
 
 lskjema:c009587 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64138,6 +64138,46 @@ lskjema:c010029 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1144> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "insolvens - forordninger - kommentarer"@nb .
+
+lskjema:c010030 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10030" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L27> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "grupperettigheter"@nb .
+
+lskjema:c010031 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10031" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L694> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "outsourcing - lovgivningsarbeid"@nb .
+
+lskjema:c010032 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10032" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L440> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "gransking - aksjeselskaper"@nb .
+
+lskjema:c010033 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10033" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1143> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "menneskerettigheter - festskrift"@nb .
+
+lskjema:c010034 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10034" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L575> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "samboerlover - kommentarer"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
