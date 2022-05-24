@@ -61149,7 +61149,7 @@ lskjema:c009640 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L694> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "lovgivning  internasjonalt samarbeid"@nb .
+    skos:prefLabel "lovgivning - internasjonalt samarbeid"@nb .
 
 lskjema:c009641 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64178,6 +64178,30 @@ lskjema:c010034 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L575> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "samboerlover - kommentarer"@nb .
+
+lskjema:c010035 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10035" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1233> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "cyberkrig"@nb .
+
+lskjema:c010036 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10036" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1200> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "cybervåpen"@nb .
+
+lskjema:c010037 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10037" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L152.4> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "kvinnerett - menneskerettigheter"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
