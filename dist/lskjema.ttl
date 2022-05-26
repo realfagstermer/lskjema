@@ -10669,15 +10669,6 @@ lskjema:c001323 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "ekteskap"@nb .
 
-lskjema:c001324 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR1324" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "(se også ektepakter)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L599> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "ektefeller - formuesforhold"@nb .
-
 lskjema:c001325 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1325" ;
@@ -14811,14 +14802,6 @@ lskjema:c001843 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L280> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "pengekrav"@nb .
-
-lskjema:c001844 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR1844" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L599> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "samboere - formuesforhold"@nb .
 
 lskjema:c001845 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -35887,6 +35870,7 @@ lskjema:c004494 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4494" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "(se også ektepakter)"@nb ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L599> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "formuesforhold - ektefeller"@nb .
@@ -38963,7 +38947,7 @@ lskjema:c004883 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR4883" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "(se også ektefeller - formuesforhold)"@nb ;
+    skos:editorialNote "(se også formuesforhold - ektefeller)"@nb ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L599> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "ektepakter"@nb .
@@ -53248,7 +53232,7 @@ lskjema:c008646 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L581> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Formuesforhold - kvinner - rettshistorie"@nb .
+    skos:prefLabel "formuesforhold - kvinner - rettshistorie"@nb .
 
 lskjema:c008647 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
