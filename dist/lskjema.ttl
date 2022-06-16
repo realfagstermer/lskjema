@@ -64203,14 +64203,6 @@ lskjema:c010039 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "eierforhold - internasjonal familierett"@nb .
 
-lskjema:c010040 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR10040" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L10001> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "1700-tallet"@nb .
-
 lskjema:c010041 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR10041" ;
