@@ -17529,14 +17529,6 @@ lskjema:c002187 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "adressekataloger"@nb .
 
-lskjema:c002188 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR2188" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L907> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "penger - hvitvasking"@nb .
-
 lskjema:c002189 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2189" ;
@@ -55648,7 +55640,7 @@ lskjema:c008951 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L762.1> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Aksjer - opsjoner - lover - kommentarer"@nb .
+    skos:prefLabel "aksjer - opsjoner - lover - kommentarer"@nb .
 
 lskjema:c008952 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
