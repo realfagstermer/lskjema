@@ -20520,14 +20520,6 @@ lskjema:c002564 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "arbeidsmiljølover - utredninger"@nb .
 
-lskjema:c002566 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR2566" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L28> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "lovtolkning - analogier"@nb .
-
 lskjema:c002567 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2567" ;
@@ -64226,6 +64218,14 @@ lskjema:c010045 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1075> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "straffeprosess - EU - implementering"@nb .
+
+lskjema:c010046 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10046" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Amerika"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
