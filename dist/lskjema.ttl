@@ -64227,6 +64227,38 @@ lskjema:c010046 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "Amerika"@nb .
 
+lskjema:c010047 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10047" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1090> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "avhør - barn "@nb .
+
+lskjema:c010048 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10048" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L292.5> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "transportrett - økonomi"@nb .
+
+lskjema:c010049 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10049" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L181> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "smartkontrakter"@nb .
+
+lskjema:c010050 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10050" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L293.9> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "bærekraftig transport"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
