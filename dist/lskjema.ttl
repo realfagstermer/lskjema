@@ -64259,6 +64259,22 @@ lskjema:c010050 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "bærekraftig transport"@nb .
 
+lskjema:c010051 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10051" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L836> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "barnehager - internkontroll"@nb .
+
+lskjema:c010052 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10052" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L600.5> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "barnevern - medvirkning"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
