@@ -50474,7 +50474,7 @@ lskjema:c008291 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1203> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Flyktninger - repatriering"@nb .
+    skos:prefLabel "flyktninger - repatriering"@nb .
 
 lskjema:c008293 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -50490,7 +50490,7 @@ lskjema:c008294 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L759.1> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Bioprospektering"@nb .
+    skos:prefLabel "bioprospektering"@nb .
 
 lskjema:c008295 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52638,7 +52638,7 @@ lskjema:c008572 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L164.5> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Fotografier - personvern"@nb .
+    skos:prefLabel "fotografier - personvern"@nb .
 
 lskjema:c008573 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52694,7 +52694,7 @@ lskjema:c008579 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L165> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Fornavn - navnerett"@nb .
+    skos:prefLabel "fornavn - navnerett"@nb .
 
 lskjema:c008580 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52710,7 +52710,7 @@ lskjema:c008581 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L291> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Entreprise - kontrakter - inngåelse"@nb .
+    skos:prefLabel "entreprise - kontrakter - inngåelse"@nb .
 
 lskjema:c008582 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52798,7 +52798,7 @@ lskjema:c008593 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1300> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Økonomi - liberalisme"@nb .
+    skos:prefLabel "økonomi - liberalisme"@nb .
 
 lskjema:c008594 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52838,7 +52838,7 @@ lskjema:c008598 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1015> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Fastsettelsesdom - sivilprosess"@nb .
+    skos:prefLabel "fastsettelsesdom - sivilprosess"@nb .
 
 lskjema:c008599 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52902,7 +52902,7 @@ lskjema:c008606 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1185> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Globalisering"@nb .
+    skos:prefLabel "globalisering"@nb .
 
 lskjema:c008607 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52918,7 +52918,7 @@ lskjema:c008608 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1273> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Feltprester - kanonisk rett"@nb .
+    skos:prefLabel "feltprester - kanonisk rett"@nb .
 
 lskjema:c008609 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -55003,7 +55003,7 @@ lskjema:c008870 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L759.7> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Fauna - konvensjoner - implementering"@nb .
+    skos:prefLabel "fauna - konvensjoner - implementering"@nb .
 
 lskjema:c008871 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -55608,7 +55608,7 @@ lskjema:c008948 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L375> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Erstatningsrett - harmonisering"@nb .
+    skos:prefLabel "erstatningsrett - harmonisering"@nb .
 
 lskjema:c008949 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -55616,7 +55616,7 @@ lskjema:c008949 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L582> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Familierett - harmonisering"@nb .
+    skos:prefLabel "familierett - harmonisering"@nb .
 
 lskjema:c008950 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -58333,7 +58333,7 @@ lskjema:c009291 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L506> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "fritidsbåter - bårførerbevis"@nb .
+    skos:prefLabel "fritidsbåter - båtførerbevis"@nb .
 
 lskjema:c009292 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -58567,7 +58567,7 @@ lskjema:c009321 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L437> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "forkjøpsrett - akjer"@nb .
+    skos:prefLabel "forkjøpsrett - aksjer"@nb .
 
 lskjema:c009322 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -60564,7 +60564,7 @@ lskjema:c009570 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L198> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Fast eiendom - lover - kommentarer"@nb .
+    skos:prefLabel "fast eiendom - lover - kommentarer"@nb .
 
 lskjema:c009572 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
