@@ -26522,7 +26522,7 @@ lskjema:c003316 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L193> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "fullmakt - avtalerett"@nb .
+    skos:prefLabel "fullmakter - avtalerett"@nb .
 
 lskjema:c003317 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52950,7 +52950,7 @@ lskjema:c008612 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L965> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Kvinner - prosessrett - rettshistorie"@nb .
+    skos:prefLabel "kvinner - prosessrett - rettshistorie"@nb .
 
 lskjema:c008613 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -55688,7 +55688,7 @@ lskjema:c008958 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L220> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Hunder - rettsforhold"@nb .
+    skos:prefLabel "hunder - rettsforhold"@nb .
 
 lskjema:c008959 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -61037,7 +61037,7 @@ lskjema:c009630 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L814> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "politisamarbeid  Schengen"@nb .
+    skos:prefLabel "politisamarbeid - Schengen"@nb .
 
 lskjema:c009631 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -61294,7 +61294,7 @@ lskjema:c009662 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L808.5> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "konsesjoner  vindkraft"@nb .
+    skos:prefLabel "konsesjoner - vindkraft"@nb .
 
 lskjema:c009663 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64081,7 +64081,7 @@ lskjema:c010026 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L491> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "handelsrett - klimaendringer."@nb .
+    skos:prefLabel "handelsrett - klimaendringer"@nb .
 
 lskjema:c010027 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
