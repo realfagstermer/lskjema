@@ -9841,14 +9841,6 @@ lskjema:c001219 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "straffesaker"@nb .
 
-lskjema:c001220 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR1220" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L826> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "konsentrasjonsleire"@nb .
-
 lskjema:c001221 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1221" ;
@@ -64314,6 +64306,22 @@ lskjema:c010057 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1400> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "fysiognomi  - nazisme"@nb .
+
+lskjema:c010058 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10058" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L296> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "handelsagentlover - kommentarer"@nb .
+
+lskjema:c010059 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10059" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L740> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "statsansatte"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
