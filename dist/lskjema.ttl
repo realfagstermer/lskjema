@@ -52566,7 +52566,7 @@ lskjema:c008564 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L124> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Privatrett - rettsfilosofi"@nb .
+    skos:prefLabel "privatrett - rettsfilosofi"@nb .
 
 lskjema:c008565 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52646,7 +52646,7 @@ lskjema:c008574 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L164.5> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Portretter - personvern"@nb .
+    skos:prefLabel "portretter - personvern"@nb .
 
 lskjema:c008575 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52694,7 +52694,7 @@ lskjema:c008580 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L402.4> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Opphavsrett - arbeidsrett"@nb .
+    skos:prefLabel "opphavsrett - arbeidsrett"@nb .
 
 lskjema:c008581 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -52982,7 +52982,7 @@ lskjema:c008617 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L792> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Organdonasjoner"@nb .
+    skos:prefLabel "organdonasjoner"@nb .
 
 lskjema:c008618 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -55632,7 +55632,7 @@ lskjema:c008952 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L293.2> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Jernbanerett"@nb .
+    skos:prefLabel "jernbanerett"@nb .
 
 lskjema:c008953 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -55640,7 +55640,7 @@ lskjema:c008953 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L292.3> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Jernbanerett - konvensjoner"@nb .
+    skos:prefLabel "jernbanerett - konvensjoner"@nb .
 
 lskjema:c008954 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
