@@ -47697,13 +47697,6 @@ lskjema:c006010 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kunstverk - godtroerverv"@nb .
 
-lskjema:c006011 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR6011" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "vindikasjon: bruk godtroerverv"@nb .
-
 lskjema:c006012 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR6012" ;
@@ -61975,7 +61968,7 @@ lskjema:c009749 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1103> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "fegselsstraff - livstid - menneskerettigheter"@nb .
+    skos:prefLabel "fengselsstraff - livstid - menneskerettigheter"@nb .
 
 lskjema:c009750 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
