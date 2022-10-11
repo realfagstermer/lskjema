@@ -46165,7 +46165,7 @@ lskjema:c005809 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L944> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "grafitti"@nb .
+    skos:prefLabel "graffiti"@nb .
 
 lskjema:c005810 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
