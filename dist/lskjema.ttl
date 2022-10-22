@@ -16644,14 +16644,6 @@ lskjema:c002077 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "landtransport"@nb .
 
-lskjema:c002078 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR2078" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "se også rettsmegling"@nb ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "megling"@nb .
-
 lskjema:c002079 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2079" ;
@@ -64332,6 +64324,14 @@ lskjema:c010062 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L74> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "romersk panterett"@nb .
+
+lskjema:c010063 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10063" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Hong Kong"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
