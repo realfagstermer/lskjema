@@ -64341,6 +64341,30 @@ lskjema:c010064 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "Hellas"@nb .
 
+lskjema:c010065 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10065" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L855> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "internasjonal strafferett - rettsvillfarelse"@nb .
+
+lskjema:c010066 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10066" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1147.2> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "grunnlovsrett - EU"@nb .
+
+lskjema:c010067 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10067" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1511> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "politikk - misogyni"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
