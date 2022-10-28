@@ -64365,6 +64365,30 @@ lskjema:c010067 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "politikk - misogyni"@nb .
 
+lskjema:c010068 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10068" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "se rettsmegling"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "megling"@nb .
+
+lskjema:c010069 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10069" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "se datakriminalitet"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "cyberkriminalitet"@nb .
+
+lskjema:c010070 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10070" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "se datakriminalitet"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "nettkriminalitet"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
