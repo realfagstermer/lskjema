@@ -64389,6 +64389,38 @@ lskjema:c010070 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "nettkriminalitet"@nb .
 
+lskjema:c010071 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10071" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L935> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "gjerningsmenn - profilering"@nb .
+
+lskjema:c010072 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10072" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L444> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "bedrifter - etablering"@nb .
+
+lskjema:c010073 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10073" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Sveits"@nb .
+
+lskjema:c010074 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10074" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:editorialNote "se urbefolkninger"@nb ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "urfolk"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
