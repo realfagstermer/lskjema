@@ -63837,14 +63837,6 @@ lskjema:c009998 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "apotekloven - kommentarer"@nb .
 
-lskjema:c009999 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR9999" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "Australia"@nb .
-
 lskjema:c010000 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR10000" ;
@@ -63980,14 +63972,6 @@ lskjema:c010017 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L1310> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "investeringer"@nb .
-
-lskjema:c010018 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR10018" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "Australia"@nb .
 
 lskjema:c010019 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -64420,6 +64404,30 @@ lskjema:c010074 a skos:Concept ;
     skos:editorialNote "se urbefolkninger"@nb ;
     skos:inScheme lskjema: ;
     skos:prefLabel "urfolk"@nb .
+
+lskjema:c010075 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10075" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Grønland"@nb .
+
+lskjema:c010076 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10076" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L411> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "aldersdiskriminering - arbeidsforhold"@nb .
+
+lskjema:c010077 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10077" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L10002> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "Australia"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
