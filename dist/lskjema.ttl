@@ -34163,7 +34163,7 @@ lskjema:c004282 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L760.3> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "karbondioksyd - utslipp - forurensning"@nb .
+    skos:prefLabel "karbondioksid - utslipp - forurensning"@nb .
 
 lskjema:c004283 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -34179,7 +34179,7 @@ lskjema:c004284 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L760.3> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "utslipp - karbondioksyd - forurensning"@nb .
+    skos:prefLabel "utslipp - karbondioksid - forurensning"@nb .
 
 lskjema:c004285 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -58004,7 +58004,7 @@ lskjema:c009254 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L760.3> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "karbondioksyd - deponering - kontinentalsokkelen"@nb .
+    skos:prefLabel "karbondioksid - deponering - kontinentalsokkelen"@nb .
 
 lskjema:c009255 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
