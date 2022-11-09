@@ -64429,14 +64429,6 @@ lskjema:c010077 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "Australia"@nb .
 
-lskjema:c010078 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR10078" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L577> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "familierett - kilde - "@nb .
-
 lskjema:c010079 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR10079" ;
@@ -64444,6 +64436,14 @@ lskjema:c010079 a skos:Concept ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L577> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "familierett - lovvalg - kildesamlinger"@nb .
+
+lskjema:c010080 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10080" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L1621> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "medisin - kunstig intelligens"@nb .
 
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
