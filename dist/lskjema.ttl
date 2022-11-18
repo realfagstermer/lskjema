@@ -55812,7 +55812,7 @@ lskjema:c008978 a skos:Concept ;
     skos:editorialNote "(se også miljøskader - straff)"@nb ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L760.6> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Miljøkriminalitet"@nb .
+    skos:prefLabel "miljøkriminalitet"@nb .
 
 lskjema:c008979 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
