@@ -59767,7 +59767,7 @@ lskjema:c009475 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L779> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "omsorgstjenester, frivillige"@nb .
+    skos:prefLabel "omsorgstjenester - frivillige"@nb .
 
 lskjema:c009476 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
