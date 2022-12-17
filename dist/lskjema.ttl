@@ -36753,7 +36753,7 @@ lskjema:c004609 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L914> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "straff -  teori"@nb .
+    skos:prefLabel "straff - teori"@nb .
 
 lskjema:c004610 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
