@@ -52912,7 +52912,7 @@ lskjema:c008611 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L773.3> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "Skattekonkurranse"@nb .
+    skos:prefLabel "skattekonkurranse"@nb .
 
 lskjema:c008612 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
