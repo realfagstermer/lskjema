@@ -64493,6 +64493,22 @@ lskjema:c010086 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "Vatikanstaten"@nb .
 
+lskjema:c010087 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10087" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L812> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "sikkerhetslover - kommentarer"@nb .
+
+lskjema:c010088 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10088" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L568> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "immaterielle rettigheter"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
