@@ -35181,7 +35181,7 @@ lskjema:c004412 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L766.1> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "banklagenemnder"@nb .
+    skos:prefLabel "bankklagenemnder"@nb .
 
 lskjema:c004413 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
