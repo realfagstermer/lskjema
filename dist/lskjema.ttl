@@ -9866,14 +9866,6 @@ lskjema:c001223 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "urbefolkninger - konvensjoner"@nb .
 
-lskjema:c001224 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR1224" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L394> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "stammefolk - konvensjoner"@nb .
-
 lskjema:c001225 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR1225" ;
@@ -52576,7 +52568,7 @@ lskjema:c008568 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L663> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "susidiaritetsprinsippet"@nb .
+    skos:prefLabel "subsidiaritetsprinsippet"@nb .
 
 lskjema:c008569 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
