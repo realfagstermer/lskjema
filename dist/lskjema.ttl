@@ -19637,14 +19637,6 @@ lskjema:c002453 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "kongemakt - pavemakt"@nb .
 
-lskjema:c002454 a skos:Concept ;
-    dcterms:created "2015-03-10"^^xsd:date ;
-    dcterms:identifier "UJUR2454" ;
-    dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L965> ;
-    skos:inScheme lskjema: ;
-    skos:prefLabel "birketing"@nb .
-
 lskjema:c002455 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR2455" ;
