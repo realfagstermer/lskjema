@@ -63347,7 +63347,7 @@ lskjema:c009938 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L767.4> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "energi produksjon - internasjonal skatterett"@nb .
+    skos:prefLabel "energiproduksjon - internasjonal skatterett"@nb .
 
 lskjema:c009939 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
@@ -63355,7 +63355,7 @@ lskjema:c009939 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L767.4> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "energi distribusjon - internasjonal skatterett"@nb .
+    skos:prefLabel "energidistribusjon - internasjonal skatterett"@nb .
 
 lskjema:c009940 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
