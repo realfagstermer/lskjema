@@ -26852,7 +26852,7 @@ lskjema:c003361 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L232> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "gjenkjøpssrett"@nb .
+    skos:prefLabel "gjenkjøpsrett"@nb .
 
 lskjema:c003362 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
