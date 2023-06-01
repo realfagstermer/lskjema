@@ -48302,7 +48302,7 @@ lskjema:c006091 a skos:Concept ;
     dcterms:modified "2015-03-10"^^xsd:date ;
     skos:exactMatch <http://data.ub.uio.no/lklass/L444> ;
     skos:inScheme lskjema: ;
-    skos:prefLabel "holdingsselskaper"@nb .
+    skos:prefLabel "holdingselskaper"@nb .
 
 lskjema:c006092 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
