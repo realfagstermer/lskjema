@@ -4364,8 +4364,8 @@ lskjema:c000537 a skos:Concept ;
     dcterms:created "2015-03-10"^^xsd:date ;
     dcterms:identifier "UJUR537" ;
     dcterms:modified "2015-03-10"^^xsd:date ;
-    skos:editorialNote "(bruk også 781)"@nb ;
-    skos:exactMatch <http://data.ub.uio.no/lklass/L787> ;
+    skos:editorialNote " "@nb ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L781> ;
     skos:inScheme lskjema: ;
     skos:prefLabel "alkohollover - kommentarer"@nb .
 
