@@ -64613,6 +64613,22 @@ lskjema:c010104 a skos:Concept ;
     skos:inScheme lskjema: ;
     skos:prefLabel "menneskerettigheter - privatrett"@nb .
 
+lskjema:c010105 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10105" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L781> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "tobakklover - kommentarer"@nb .
+
+lskjema:c010106 a skos:Concept ;
+    dcterms:created "2015-03-10"^^xsd:date ;
+    dcterms:identifier "UJUR10106" ;
+    dcterms:modified "2015-03-10"^^xsd:date ;
+    skos:exactMatch <http://data.ub.uio.no/lklass/L781> ;
+    skos:inScheme lskjema: ;
+    skos:prefLabel "tobakklover - kommentarer"@nb .
+
 <http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
     dcterms:title "data.ub.uio.no" ;
